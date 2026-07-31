@@ -127,7 +127,7 @@ h2.center{margin-bottom:40px;}
   transition:transform .25s ease;
 }
 .service-card:hover{transform:translateY(-6px);}
-.service-card img{height:170px;object-fit:cover;width:100%;}
+.service-card img{height:300px;object-fit:cover;width:100%;}
 .service-body{padding:20px;position:relative;}
 .service-icon{
   position:absolute;top:-24px;left:20px;background:var(--navy);color:#fff;
