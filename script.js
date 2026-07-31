@@ -16,43 +16,43 @@ nav.querySelectorAll('a').forEach(a => {
 const services = [
 {
 icon:"🏠",
-img:"images/deep-cleaning.jpg",
+img:"images/uniform.png",
 title:"Deep Cleaning Services",
 desc:"A complete, room-by-room clean for homes and offices — floors, walls, switchboards, ceiling corners and hard-to-reach spots. We remove built-up dirt, dust and bacteria that regular sweeping misses, leaving every surface sanitized and fresh."
 },
 {
 icon:"🛋️",
-img:"images/sofa-cleaning.jpg",
+img:"images/uniform.png",
 title:"Sofa Cleaning Services",
 desc:"Steam and shampoo cleaning that lifts embedded dust mites, food stains and odors from every type of upholstery fabric. Your sofa comes out looking newer, smelling fresher, and safer for kids and pets to lounge on."
 },
 {
 icon:"🧹",
-img:"images/carpet-cleaning.jpg",
+img:"images/uniform.png",
 title:"Carpet Cleaning Services",
 desc:"Deep hot-water extraction that pulls dirt out from the carpet base, not just the surface. Effective against allergens, dust mites and old stains, restoring color and texture without leaving your carpet soaking wet."
 },
 {
 icon:"🏭",
-img:"images/showroom-warehouse.jpg",
+img:"images/uniform.png",
 title:"Showroom & Warehouse Cleaning",
 desc:"Large-scale cleaning for showrooms, warehouses and industrial floors using commercial-grade equipment. We handle high ceilings, racking systems and large floor areas efficiently with minimal disruption to your business hours."
 },
 {
 icon:"🏗️",
-img:"images/post-construction.jpg",
+img:"images/uniform.png",
 title:"Post Interior / Post Construction Cleaning",
 desc:"Thorough cleanup after renovation or construction work — removing cement dust, paint splatters, debris and packaging waste from floors, fittings and windows so your space is move-in ready."
 },
 {
 icon:"🪟",
-img:"images/facade-glass.jpg",
+img:"images/uniform.png",
 title:"Facade Glass Cleaning",
 desc:"Streak-free cleaning of building exteriors and glass facades using safety-rigged equipment for high-rise access. Restores clarity and shine to glass surfaces while following strict safety protocols."
 },
 {
 icon:"🧱",
-img:"images/acp-panel.jpg",
+img:"images/uniform.png",
 title:"Aluminium Composite Panel Cleaning",
 desc:"Specialized cleaning for ACP exterior panels that removes pollution grime, stains and algae buildup without damaging the panel coating, helping preserve the building's appearance and panel lifespan."
 },
