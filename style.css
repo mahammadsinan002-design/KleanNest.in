@@ -214,3 +214,72 @@ h2.center{margin-bottom:40px;}
 .whatsapp-float:hover{
     transform:scale(1.1);
 }
+
+/* Social Media Links */
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.social-links a {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #ffffff;
+    color: #0f2a26;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.3s ease;
+}
+
+.social-links a:hover {
+    transform: translateY(-4px);
+    background: #9fd8c9;
+}
+
+/* Social Media Buttons */
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.social-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 13px 22px;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    transition: 0.3s ease;
+}
+
+.social-btn i {
+    font-size: 20px;
+}
+
+.instagram-btn {
+    background: #d62976;
+}
+
+.facebook-btn {
+    background: #1877f2;
+}
+
+.social-btn:hover {
+    transform: translateY(-3px);
+    opacity: 0.9;
+}
